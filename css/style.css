@@ -64,8 +64,9 @@ img {
     margin-top: 0.8rem;
 }
 
-.content h1 {
+.content h2 {
     font-family: 'Fraunces', serif;
+    font-size: 2rem;
 }
 
 .content .heading {
